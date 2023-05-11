@@ -20,7 +20,7 @@ https://github.com/rish-abh07/AR-painting-/assets/96663526/5e30eb17-e09f-455a-b2
 
 # You can find the app here :
 
-Though its only restricted for Nit hamirpur students
+Though its only  Nit hamirpur students can log in 
 [https://play.google.com/store/apps/details?id=com.appteamnith.nimbus2k23]
 
 
